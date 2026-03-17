@@ -90,7 +90,7 @@ public class CampaignTest extends BaseClass {
 
 				Assert.assertTrue(msg.contains(campname));
 
-				Thread.sleep(3000);
+				Thread.sleep(5000);
 
 		
 		
